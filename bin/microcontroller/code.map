@@ -1,0 +1,1172 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o (micros)
+/home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o (pinMode)
+/home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(hooks.c.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o) (yield)
+/home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o (analogWrite)
+/home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o (Serial)
+/home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o (Print::write(unsigned char const*, unsigned int))
+/home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+                              /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o (main)
+/home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o (HardwareSerial::available())
+/home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(abi.cpp.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o) (__cxa_pure_virtual)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o) (__subsf3)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+                              /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3.o) (__addsf3x)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o (__ltsf2)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o) (__divsf3)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                              /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3.o) (__divsf3x)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o) (__fixunssfsi)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o) (__floatunsisf)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                              /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(cmpsf2.o) (__fp_cmp)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+                              /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_inf)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                              /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_nan)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                              /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscA)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                              /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscB)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_round.o)
+                              /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3.o) (__fp_round)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                              /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_split3)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                              /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_zero)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(gesf2.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o) (__gtsf2)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o) (__mulsf3)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                              /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3.o) (__mulsf3x)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o) (__unordsf2)
+/usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_udivmodsi4.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o) (__udivmodsi4)
+/usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o (exit)
+/usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o (__do_copy_data)
+/usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_clear_bss.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o) (__do_clear_bss)
+/usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o) (__do_global_ctors)
+/usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_tablejump2.o)
+                              /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o) (__tablejump2__)
+/usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libc.a(abort.o)
+                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(abi.cpp.o) (abort)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .text          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+ .data          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+ .bss           0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+ .text          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o
+ .data          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o
+ .bss           0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o
+ .stab          0x0000000000000000      0x90c /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o
+                                        0x918 (size before relaxing)
+ .text.pulseIn  0x0000000000000000       0x50 /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o
+ .text.pulseInLong
+                0x0000000000000000      0x100 /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o
+ .comment       0x0000000000000000       0x12 /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o
+ .text          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+ .data          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+ .bss           0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+ .text.millis   0x0000000000000000       0x18 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+ .text.micros   0x0000000000000000       0x4a /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+ .text.delay    0x0000000000000000       0x74 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+ .text.delayMicroseconds
+                0x0000000000000000       0x16 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+ .text          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+ .data          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+ .bss           0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+ .text.digitalRead
+                0x0000000000000000       0x52 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+ .progmem.data.port_to_input_PGM
+                0x0000000000000000        0xa /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+ .text          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(hooks.c.o)
+ .data          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(hooks.c.o)
+ .bss           0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(hooks.c.o)
+ .stab          0x0000000000000000      0x288 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(hooks.c.o)
+                                        0x294 (size before relaxing)
+ .text.__empty  0x0000000000000000        0x2 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(hooks.c.o)
+ .comment       0x0000000000000000       0x12 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(hooks.c.o)
+ .text          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+ .data          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+ .bss           0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+ .text.analogReference
+                0x0000000000000000        0x6 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+ .text.analogRead
+                0x0000000000000000       0x3a /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+ .data.analog_reference
+                0x0000000000000000        0x1 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+ .text          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+ .data          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+ .group         0x0000000000000000        0x8 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .group         0x0000000000000000        0x8 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .group         0x0000000000000000        0x8 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .group         0x0000000000000000        0x8 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .data          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print17availableForWriteEv
+                0x0000000000000000        0x6 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print5flushEv
+                0x0000000000000000        0x2 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print5writeEPKc
+                0x0000000000000000       0x2a /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x0000000000000000       0x48 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print5printERK6String
+                0x0000000000000000       0x1c /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print5printEPKc
+                0x0000000000000000        0x4 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print5printEc
+                0x0000000000000000        0xe /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print5printERK9Printable
+                0x0000000000000000       0x14 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .rodata._ZN5Print7printlnEv.str1.1
+                0x0000000000000000        0x3 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print7printlnEv
+                0x0000000000000000        0x8 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x0000000000000000       0x24 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print7printlnERK6String
+                0x0000000000000000       0x24 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print7printlnEPKc
+                0x0000000000000000       0x24 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print7printlnEc
+                0x0000000000000000       0x24 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x0000000000000000       0x24 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print11printNumberEmh
+                0x0000000000000000       0x98 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print5printEli
+                0x0000000000000000       0x94 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print5printEii
+                0x0000000000000000        0xe /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print7printlnEii
+                0x0000000000000000       0x24 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print7printlnEli
+                0x0000000000000000       0x24 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print5printEmi
+                0x0000000000000000       0x1a /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print5printEhi
+                0x0000000000000000        0xe /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print7printlnEhi
+                0x0000000000000000       0x24 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print5printEji
+                0x0000000000000000        0xc /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print7printlnEji
+                0x0000000000000000       0x24 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print7printlnEmi
+                0x0000000000000000       0x24 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .rodata._ZN5Print10printFloatEdh.str1.1
+                0x0000000000000000        0xc /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print10printFloatEdh
+                0x0000000000000000      0x1d6 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print5printEdi
+                0x0000000000000000        0x4 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text._ZN5Print7printlnEdi
+                0x0000000000000000       0x24 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .rodata._ZTV5Print
+                0x0000000000000000        0xc /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .text          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+ .data          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+ .text.atexit   0x0000000000000000        0x6 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+ .text._Z8setupUSBv
+                0x0000000000000000        0x2 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+ .group         0x0000000000000000        0x8 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+ .text          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+ .data          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+ .text._ZN14HardwareSerial3endEv
+                0x0000000000000000       0x44 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+ .text          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(abi.cpp.o)
+ .data          0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(abi.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(abi.cpp.o)
+ .stab          0x0000000000000000      0x3a8 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(abi.cpp.o)
+                                        0x3b4 (size before relaxing)
+ .text.__cxa_pure_virtual
+                0x0000000000000000        0x4 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(abi.cpp.o)
+ .text.__cxa_deleted_virtual
+                0x0000000000000000        0x4 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(abi.cpp.o)
+ .comment       0x0000000000000000       0x12 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(abi.cpp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0xcc /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x8 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0xdc /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x5e /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xc /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x6 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x22 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x44 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(gesf2.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(gesf2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xa /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(gesf2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x8 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0xd2 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xa /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_tablejump2.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_tablejump2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libc.a(abort.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libc.a(abort.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libc.a(abort.o)
+ .text.avr-libc
+                0x0000000000000000        0xa /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libc.a(abort.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000400 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+LOAD /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+LOAD /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o
+LOAD /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a
+LOAD /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a
+START GROUP
+LOAD /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a
+LOAD /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libc.a
+LOAD /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libatmega328p.a
+END GROUP
+                0x0000000000020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x000000000000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x0000000000010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                0x0000000000000400                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0xbb6
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000068                . = ALIGN (0x2)
+                0x0000000000000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000068        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x0000000000000068       0x14 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+                0x0000000000000068                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x000000000000007c       0x14 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+                0x000000000000007c                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x0000000000000090       0x14 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+                0x0000000000000090                digital_pin_to_port_PGM
+ .progmem.data.port_to_output_PGM
+                0x00000000000000a4        0xa /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+                0x00000000000000a4                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x00000000000000ae        0xa /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+                0x00000000000000ae                port_to_mode_PGM
+                0x00000000000000b8                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000000b8                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000000000000b8        0x2 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+                0x00000000000000ba                __ctors_end = .
+                0x00000000000000ba                __dtors_start = .
+ *(.dtors)
+                0x00000000000000ba                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000000000000ba        0x0 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00000000000000ba                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000000000000ba        0xc /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000000c6       0x16 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+                0x00000000000000c6                __do_copy_data
+ .init4         0x00000000000000dc       0x10 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_clear_bss.o)
+                0x00000000000000dc                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000000000000ec       0x14 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+                0x00000000000000ec                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000100        0x4 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x0000000000000104        0x2 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x0000000000000104                __vector_22
+                0x0000000000000104                __vector_1
+                0x0000000000000104                __vector_24
+                0x0000000000000104                __vector_12
+                0x0000000000000104                __bad_interrupt
+                0x0000000000000104                __vector_6
+                0x0000000000000104                __vector_3
+                0x0000000000000104                __vector_23
+                0x0000000000000104                __vector_25
+                0x0000000000000104                __vector_11
+                0x0000000000000104                __vector_13
+                0x0000000000000104                __vector_17
+                0x0000000000000104                __vector_7
+                0x0000000000000104                __vector_5
+                0x0000000000000104                __vector_4
+                0x0000000000000104                __vector_9
+                0x0000000000000104                __vector_2
+                0x0000000000000104                __vector_21
+                0x0000000000000104                __vector_15
+                0x0000000000000104                __vector_8
+                0x0000000000000104                __vector_14
+                0x0000000000000104                __vector_10
+                0x0000000000000104                __vector_20
+                0x0000000000000106                . = ALIGN (0x2)
+ *(.text.*)
+ .text.setup    0x0000000000000106       0x40 /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+                0x0000000000000106                setup
+ .text._Z16serial_comm_sendj
+                0x0000000000000146       0xe2 /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+                0x0000000000000146                serial_comm_send(unsigned int)
+ .text._Z19serial_comm_receivev
+                0x0000000000000228       0x92 /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+                0x0000000000000228                serial_comm_receive()
+ .text.loop     0x00000000000002ba      0x114 /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+                0x00000000000002ba                loop
+ .text.__vector_16
+                0x00000000000003ce       0x94 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+                0x00000000000003ce                __vector_16
+ .text.init     0x0000000000000462       0x76 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+                0x0000000000000462                init
+ .text.turnOffPWM
+                0x00000000000004d8       0x52 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+ .text.pinMode  0x000000000000052a       0x78 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+                0x000000000000052a                pinMode
+ .text.digitalWrite
+                0x00000000000005a2       0x5a /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+                0x00000000000005a2                digitalWrite
+ .text.analogWrite
+                0x00000000000005fc       0xb6 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+                0x00000000000005fc                analogWrite
+ .text.__vector_18
+                0x00000000000006b2       0x64 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+                0x00000000000006b2                __vector_18
+ .text.__vector_19
+                0x0000000000000716       0x4a /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+                0x0000000000000716                __vector_19
+ .text._Z17Serial0_availablev
+                0x0000000000000760       0x12 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+                0x0000000000000760                Serial0_available()
+ .text.startup._GLOBAL__sub_I___vector_18
+                0x0000000000000772       0x5a /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+ .text._ZN5Print5writeEPKhj
+                0x00000000000007cc       0x52 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+                0x00000000000007cc                Print::write(unsigned char const*, unsigned int)
+ .text.initVariant
+                0x000000000000081e        0x2 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+                0x000000000000081e                initVariant
+ .text.startup.main
+                0x0000000000000820       0x14 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+                0x0000000000000820                main
+ .text._ZN14HardwareSerial9availableEv
+                0x0000000000000834       0x18 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                0x0000000000000834                HardwareSerial::available()
+ .text._ZN14HardwareSerial4peekEv
+                0x000000000000084c       0x1c /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                0x000000000000084c                HardwareSerial::peek()
+ .text._ZN14HardwareSerial4readEv
+                0x0000000000000868       0x28 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                0x0000000000000868                HardwareSerial::read()
+ .text._ZN14HardwareSerial17availableForWriteEv
+                0x0000000000000890       0x20 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                0x0000000000000890                HardwareSerial::availableForWrite()
+ .text._Z14serialEventRunv
+                0x00000000000008b0       0x1a /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                0x00000000000008b0                serialEventRun()
+ .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x00000000000008ca       0x42 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                0x00000000000008ca                HardwareSerial::_tx_udr_empty_irq()
+ .text._ZN14HardwareSerial5flushEv
+                0x000000000000090c       0x42 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                0x000000000000090c                HardwareSerial::flush()
+ .text._ZN14HardwareSerial5writeEh
+                0x000000000000094e       0x8c /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                0x000000000000094e                HardwareSerial::write(unsigned char)
+ .text._ZN14HardwareSerial5beginEmh
+                0x00000000000009da       0xbe /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                0x00000000000009da                HardwareSerial::begin(unsigned long, unsigned char)
+ .text.avr-libc.fplib
+                0x0000000000000a98        0x8 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                0x0000000000000a98                __lesf2
+                0x0000000000000a98                __nesf2
+                0x0000000000000a98                __eqsf2
+                0x0000000000000a98                __cmpsf2
+                0x0000000000000a98                __ltsf2
+ .text.avr-libc.fplib
+                0x0000000000000aa0       0x7a /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                0x0000000000000aa0                __floatunsisf
+                0x0000000000000aa4                __floatsisf
+ .text.avr-libc.fplib
+                0x0000000000000b1a       0x48 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                0x0000000000000b1a                __fp_cmp
+ .text.libgcc.div
+                0x0000000000000b62       0x44 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_udivmodsi4.o)
+                0x0000000000000b62                __udivmodsi4
+ .text.libgcc   0x0000000000000ba6        0xc /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_tablejump2.o)
+                0x0000000000000ba6                __tablejump2__
+                0x0000000000000bb2                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000000bb2        0x0 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_exit.o)
+                0x0000000000000bb2                exit
+                0x0000000000000bb2                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000000bb2        0x4 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000000bb6                _etext = .
+
+.data           0x0000000000800100       0x1c load address 0x0000000000000bb6
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZL10MOTOR_PINS
+                0x0000000000800100        0x8 /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+ .rodata._ZL20NEGATIVE_ACKNOWLEDGE
+                0x0000000000800108        0x1 /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+ .rodata._ZL11ACKNOWLEDGE
+                0x0000000000800109        0x1 /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+ .rodata._ZTV14HardwareSerial
+                0x000000000080010a       0x12 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                0x000000000080010a                vtable for HardwareSerial
+ *(.gnu.linkonce.d*)
+                0x000000000080011c                . = ALIGN (0x2)
+                0x000000000080011c                _edata = .
+                0x000000000080011c                PROVIDE (__data_end, .)
+
+.bss            0x000000000080011c       0xa6
+                0x000000000080011c                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.timer0_fract
+                0x000000000080011c        0x1 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+ .bss.timer0_millis
+                0x000000000080011d        0x4 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+                0x000000000080011d                timer0_millis
+ .bss.timer0_overflow_count
+                0x0000000000800121        0x4 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+                0x0000000000800121                timer0_overflow_count
+ .bss.Serial    0x0000000000800125       0x9d /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+                0x0000000000800125                Serial
+ *(COMMON)
+                0x00000000008001c2                PROVIDE (__bss_end, .)
+                0x0000000000000bb6                __data_load_start = LOADADDR (.data)
+                0x0000000000000bd2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00000000008001c2        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x00000000008001c2                _end = .
+                [!provide]                        PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x0000000000000000     0x420c
+ *(.stab)
+ .stab          0x0000000000000000      0xb70 /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+ .stab          0x0000000000000b70      0x558 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+                                        0xa68 (size before relaxing)
+ .stab          0x00000000000010c8      0x7bc /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+                                        0xbd0 (size before relaxing)
+ .stab          0x0000000000001884      0x54c /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+                                        0x900 (size before relaxing)
+ .stab          0x0000000000001dd0      0x8c4 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+                                        0x8d0 (size before relaxing)
+ .stab          0x0000000000002694      0x7c8 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+                                       0x13a4 (size before relaxing)
+ .stab          0x0000000000002e5c      0x774 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+                                        0x7bc (size before relaxing)
+ .stab          0x00000000000035d0      0xc3c /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                                        0xccc (size before relaxing)
+
+.stabstr        0x0000000000000000     0x39a1
+ *(.stabstr)
+ .stabstr       0x0000000000000000     0x39a1 /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+ .comment       0x0000000000000011       0x12 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+ .comment       0x0000000000000011       0x12 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+ .comment       0x0000000000000011       0x12 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+ .comment       0x0000000000000011       0x12 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+ .comment       0x0000000000000011       0x12 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+ .comment       0x0000000000000011       0x12 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x5f4
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x5f4 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_abbrev   0x0000000000000000      0x5a2
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x5a2 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_line     0x0000000000000000       0x1d
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1d /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0x208
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x208 /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+OUTPUT(/home/schutzekatze/projects/sokownik/bin/microcontroller/code.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+HardwareSerial::_tx_udr_empty_irq()               /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+HardwareSerial::available()                       /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+HardwareSerial::availableForWrite()               /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+HardwareSerial::begin(unsigned long, unsigned char) /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+HardwareSerial::end()                             /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+HardwareSerial::flush()                           /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+HardwareSerial::peek()                            /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+HardwareSerial::read()                            /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+HardwareSerial::write(unsigned char)              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+Print::availableForWrite()                        /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::flush()                                    /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::print(Printable const&)                    /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::print(String const&)                       /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::print(__FlashStringHelper const*)          /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::print(char const*)                         /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::print(char)                                /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::print(double, int)                         /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::print(int, int)                            /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::print(long, int)                           /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::print(unsigned char, int)                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::print(unsigned int, int)                   /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::print(unsigned long, int)                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::printFloat(double, unsigned char)          /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::printNumber(unsigned long, unsigned char)  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::println()                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::println(Printable const&)                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::println(String const&)                     /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::println(__FlashStringHelper const*)        /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::println(char const*)                       /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::println(char)                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::println(double, int)                       /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::println(int, int)                          /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::println(long, int)                         /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::println(unsigned char, int)                /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::println(unsigned int, int)                 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::println(unsigned long, int)                /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::write(char const*)                         /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+Print::write(unsigned char const*, unsigned int)  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+Serial                                            /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+Serial0_available()                               /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+__addsf3                                          /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+__addsf3x                                         /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3.o)
+__bad_interrupt                                   /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__bss_end                                         /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_clear_bss.o)
+__cmpsf2                                          /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__ctors_end                                       /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+__ctors_start                                     /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+__cxa_deleted_virtual                             /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(abi.cpp.o)
+__cxa_pure_virtual                                /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(abi.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+__data_end                                        /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+__divsf3                                          /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+__divsf3_pse                                      /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+__divsf3x                                         /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3.o)
+__do_clear_bss                                    /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_clear_bss.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+__do_copy_data                                    /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_copy_data.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+__do_global_ctors                                 /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+__eqsf2                                           /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__fixunssfsi                                      /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+__floatsisf                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+__floatunsisf                                     /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+__fp_cmp                                          /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(gesf2.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__fp_inf                                          /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_nan                                          /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_pscA                                         /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_pscB                                         /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_round                                        /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_round.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3.o)
+__fp_split3                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_splitA                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+__fp_szero                                        /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+__fp_zero                                         /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__gesf2                                           /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(gesf2.o)
+__gtsf2                                           /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(gesf2.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+__heap_end                                        /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__init                                            /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__lesf2                                           /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+__ltsf2                                           /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+__mulsf3                                          /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+__mulsf3_pse                                      /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__mulsf3x                                         /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+__nesf2                                           /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__stack                                           /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__subsf3                                          /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+__tablejump2__                                    /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_tablejump2.o)
+                                                  /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_ctors.o)
+__udivmodsi4                                      /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+__unordsf2                                        /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+__vector_1                                        /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_10                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_11                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_12                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_13                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_14                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_15                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_16                                       /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_17                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_18                                       /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_19                                       /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_2                                        /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_20                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_21                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_22                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_23                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_24                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_25                                       /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_3                                        /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_4                                        /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_5                                        /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_6                                        /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_7                                        /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_8                                        /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_9                                        /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vector_default                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+__vectors                                         /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+_exit                                             /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_exit.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libc.a(abort.o)
+abort                                             /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/libc.a(abort.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(abi.cpp.o)
+analogRead                                        /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+analogReference                                   /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+analogWrite                                       /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+analog_reference                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+atexit                                            /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+countPulseASM                                     /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o
+delay                                             /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+delayMicroseconds                                 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+digitalRead                                       /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+digitalWrite                                      /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+digital_pin_to_bit_mask_PGM                       /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o
+digital_pin_to_port_PGM                           /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o
+digital_pin_to_timer_PGM                          /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+exit                                              /usr/lib/gcc/avr/6.3.0/avr5/libgcc.a(_exit.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+init                                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+initVariant                                       /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+loop                                              /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+main                                              /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+                                                  /usr/lib/gcc/avr/6.3.0/../../../../avr/lib/avr5/crtatmega328p.o
+micros                                            /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o
+millis                                            /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+pinMode                                           /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_analog.c.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+port_to_input_PGM                                 /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o
+port_to_mode_PGM                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+port_to_output_PGM                                /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring_digital.c.o)
+pulseIn                                           /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o
+pulseInLong                                       /home/schutzekatze/projects/sokownik/bin/microcontroller/wiring_pulse.S.o
+serialEvent()                                     /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+serialEventRun()                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+serial_comm_receive()                             /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+serial_comm_send(unsigned int)                    /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+setup                                             /home/schutzekatze/projects/sokownik/bin/microcontroller/code.cpp.o
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+setupUSB()                                        /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(main.cpp.o)
+timer0_millis                                     /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+timer0_overflow_count                             /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)
+vtable for HardwareSerial                         /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial.cpp.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(HardwareSerial0.cpp.o)
+vtable for Print                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(Print.cpp.o)
+yield                                             /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(hooks.c.o)
+                                                  /home/schutzekatze/projects/sokownik/bin/microcontroller/libcore.a(wiring.c.o)

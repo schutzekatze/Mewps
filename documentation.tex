@@ -1,0 +1,84 @@
+\documentclass[11pt, a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+
+\font\myfont=cmr12 at 40pt
+\title{\myfont Sokownik}
+\author{Vladimir Nikolić \& Vanja Knežević}
+\date{\today}
+
+\begin{document}
+
+    \pagenumbering{gobble}
+    \maketitle
+    \newpage
+
+    \tableofcontents
+    \newpage
+
+    \pagenumbering{arabic}
+
+    \section{Introduction}
+    
+    Sokownik is an environment aware robot that stands on four wheels, out of which the front two are powered by motors to give it mobility. Various sensors are included to give it ability to perceive its surroundings and act upon changes.
+    
+    There's no concrete idea behind what the robot should do, instead, we're adding whatever we feel like, which may include absolutely useless abilities.
+
+    \section{Hardware}
+    
+    \subsection{Platform}    
+    
+    The platform on which the components are placed is a rectangular piece of aluminium with its back corners cut, mainly for aesthetics.
+
+    Missing image with dimensions (246 mm x 189 mm, ~40 mm missing edges)
+    
+    \subsection{Main computer}
+    
+    The main computer is a Raspberry Pi 3 Model B. It runs the main robot code, which is explained in the software section of the documentation and sends instructions to the microcontroller explained in the following section.
+    
+    \subsection{Microcontroller}
+    
+    The microcontroller is an Arduino Uno. Its purpose is to collect sensor data in real time and adjust motor speed with PWM, which is not something a Raspberry Pi is capable of, as it misses analog pins. It also removes the burden of doing low level peripheral interaction from the main computer.
+    
+    \subsection{Peripherals}
+    
+    \begin{itemize}
+        \item Camera\newline
+        The model used is Pi Camera Module V2, and it's placed on a gimbal that stands on the front of the platform. Gimbal allows the camera to rotate about 160 degrees horizontally and vertically.
+        \item Motors\newline
+        Placeholder
+        \item Accelerometer\newline
+        Placeholder
+        \item Distance sensor\newline
+        Placeholder
+        \item Microphones\newline
+        Placeholder
+        \item Power supply\newline
+        Placeholder
+    \end{itemize}
+
+    \section{Software}
+    
+    \subsection{Code conventions}
+    
+    Placeholder
+    
+    \subsection{Main computer}
+    
+    \subsubsection{Infrastructure}
+    
+    Abstracts hardware and offers ways to utilize robot's physical abilities.
+    
+    \subsubsection{Cognition}
+    
+    Generates tasks for the robot to do.
+    
+    \subsubsection{Manual control}
+    
+    Gives basic and direct instructions to the robot from a human.
+    
+    \subsection{Microcontroller}		
+  
+    Placeholder
+  
+\end{document}

@@ -1,0 +1,3 @@
+/home/schutzekatze/projects/sokownik/bin/main-computer/infrastructure/CMakeFiles/rebuild_cache.dir
+/home/schutzekatze/projects/sokownik/bin/main-computer/infrastructure/CMakeFiles/infrastructure.dir
+/home/schutzekatze/projects/sokownik/bin/main-computer/infrastructure/CMakeFiles/edit_cache.dir
