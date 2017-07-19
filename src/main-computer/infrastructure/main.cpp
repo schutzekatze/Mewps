@@ -4,46 +4,37 @@
  *  Copyright 2017 Vladimir Nikolić
  */
 
-#include "peripherals/hardware/serial_comm.h"
+#include "peripherals/Motors.h"
+using infrastructure::Motors;
 
 #include <iostream>
 using std::cout;
-using std::endl;
-
-#include <exception>
-using std::exception;
 
 #include <thread>
 #include <chrono>
 using std::this_thread::sleep_for;
-using std::chrono::milliseconds;
+using namespace std::chrono_literals;
 
-int main()
-{
-	sleep_for(milliseconds(2000));
+#include <exception>
+using std::exception;
 
-	cout << "start" << endl;
+int main() {
+	sleep_for(2s);
 
-	try
-	{
-		int16_t msg, response;
-		while (true)
-		{
-            msg = -7;
+	cout << "start\n";
 
-            serial_comm_send(msg);
+	try {
 
-            response = serial_comm_receive();
+		Motors::set_powers(127, 127);
 
-            cout << response << endl;
-		}
+		sleep_for(1s);
+
+		Motors::set_powers(0, 0);
+
 	}
-	catch (exception &e)
-	{
-		cout << e.what() << endl;
+	catch (exception &e) {
+		cout << e.what() << '\n';
 	}
 
     return 0;
 }
-
-

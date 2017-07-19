@@ -6,22 +6,17 @@
 
 #include "PowerSupply.h"
 
-#include "CommProtocolThreadsafe.h"
+#include "microcontroller/Communicator.h"
+using infrastructure::microcontroller::Communicator;
 
-namespace infrastructure
-{
+namespace infrastructure {
 
-float PowerSupply::get_supply_status()
-{
-	int16_t int_status;
-
-	CommProtocolThreadsafe::request_power_status_ts(&int_status);
-
-	return (int_status * CONVERSION_FACTOR - MIN_VOLTAGE) / (MAX_VOLTAGE - MIN_VOLTAGE);
+float PowerSupply::get_supply_status() {
+	return (Communicator::request_power_status() * CONVERSION_FACTOR - MIN_VOLTAGE)
+												      / (MAX_VOLTAGE - MIN_VOLTAGE);
 }
 
-int PowerSupply::get_estimated_remaining_time()
-{
+float PowerSupply::get_estimated_remaining_time() {
 	return 0;
 }
 

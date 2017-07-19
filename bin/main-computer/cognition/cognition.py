@@ -1,1 +1,0 @@
-/home/schutzekatze/projects/sokownik/src/main-computer/cognition/main.py

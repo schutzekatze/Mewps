@@ -1,18 +1,18 @@
 /*
- * DistanceSensor.cpp
+ * Compass.cpp
  *
  *  Copyright 2017 Vladimir Nikolić
  */
 
-#include "DistanceSensor.h"
+#include "Compass.h"
 
 #include "microcontroller/Communicator.h"
 using infrastructure::microcontroller::Communicator;
 
 namespace infrastructure {
 
-float DistanceSensor::get_distance() {
-	return Communicator::request_distance() * CONVERSION_FACTOR;
+float Compass::get_orientation() {
+	return Communicator::request_compass_orientation() * CONVERSION_FACTOR;
 }
 
 }  /* namespace infrastructure */

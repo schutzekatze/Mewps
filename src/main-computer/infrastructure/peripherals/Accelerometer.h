@@ -4,20 +4,24 @@
  *  Copyright 2017 Vladimir Nikolić
  */
 
-#ifndef INFRASTRUCTURE_PERIPHERALS_ACCELEROMETER_H_
-#define INFRASTRUCTURE_PERIPHERALS_ACCELEROMETER_H_
+#ifndef INFRASTRUCTURE_PERIPHERALS_ACCELEROMETER_H
+#define INFRASTRUCTURE_PERIPHERALS_ACCELEROMETER_H
 
-namespace infrastructure
-{
+#include <tuple>
+using std::tuple;
 
-class Accelerometer
-{
+namespace infrastructure {
+
+class Accelerometer {
 
 public:
 
-    static void get_accelerations(float* ax, float *ay, float *az);
+    // Returns accelerations in x, y and z
+    static tuple<float, float, float> get_accelerations();
 
 private:
+
+    Accelerometer() = delete;
 
     static constexpr float CONVERSION_FACTOR = 0.1;
 
@@ -25,4 +29,4 @@ private:
 
 }  /* namespace infrastructure */
 
-#endif /* INFRASTRUCTURE_PERIPHERALS_ACCELEROMETER_H_ */
+#endif /* INFRASTRUCTURE_PERIPHERALS_ACCELEROMETER_H */

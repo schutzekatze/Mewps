@@ -6,20 +6,17 @@
 
 #include "Accelerometer.h"
 
-#include "CommProtocolThreadsafe.h"
+using std::make_tuple;
 
-namespace infrastructure
-{
+#include "microcontroller/Communicator.h"
+using infrastructure::microcontroller::Communicator;
 
-void Accelerometer::get_accelerations(float* ax, float *ay, float *az)
-{
-	int16_t int_ax, int_ay, int_az;
+namespace infrastructure {
 
-    CommProtocolThreadsafe::request_accelerometer_data_ts(&int_ax, &int_ay, &int_az);
+tuple<float, float, float> Accelerometer::get_accelerations() {
+	auto [ax, ay, az] = Communicator::request_accelerometer_data();
 
-    *ax = CONVERSION_FACTOR * int_ax;
-    *ay = CONVERSION_FACTOR * int_ay;
-    *az = CONVERSION_FACTOR * int_az;
+	return make_tuple(ax * CONVERSION_FACTOR, ay * CONVERSION_FACTOR, az * CONVERSION_FACTOR);
 }
 
 }  /* namespace infrastructure */

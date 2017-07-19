@@ -4,16 +4,15 @@
  *  Copyright 2017 Vladimir Nikolić
  */
 
-#ifndef INFRASTRUCTURE_PERIPHERALS_MOTORS_H_
-#define INFRASTRUCTURE_PERIPHERALS_MOTORS_H_
+#ifndef INFRASTRUCTURE_PERIPHERALS_MOTORS_H
+#define INFRASTRUCTURE_PERIPHERALS_MOTORS_H
 
-#include <cstdint>
+#include <tuple>
+using std::tuple;
 
-namespace infrastructure
-{
+namespace infrastructure {
 
-class Motors
-{
+class Motors {
 
 public:
 
@@ -23,7 +22,7 @@ public:
      * going reverse at max speed, and 1.0 going forward at max speed.
      */
     static void set_powers(float power_left, float power_right);
-    static void get_powers(float *power_left, float *power_right);
+    static tuple<float, float> get_powers();
 
 private:
 
@@ -37,4 +36,4 @@ private:
 
 }  /* namespace infrastructure */
 
-#endif /* INFRASTRUCTURE_PERIPHERALS_MOTORS_H_ */
+#endif /* INFRASTRUCTURE_PERIPHERALS_MOTORS_H */

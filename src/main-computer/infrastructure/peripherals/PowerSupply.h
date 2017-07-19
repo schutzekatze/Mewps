@@ -4,14 +4,12 @@
  *  Copyright 2017 Vladimir Nikolić
  */
 
-#ifndef INFRASTRUCTURE_PERIPHERALS_POWERSUPPLY_H_
-#define INFRASTRUCTURE_PERIPHERALS_POWERSUPPLY_H_
+#ifndef INFRASTRUCTURE_PERIPHERALS_POWERSUPPLY_H
+#define INFRASTRUCTURE_PERIPHERALS_POWERSUPPLY_H
 
-namespace infrastructure
-{
+namespace infrastructure {
 
-class PowerSupply
-{
+class PowerSupply {
 
 public:
 
@@ -19,9 +17,11 @@ public:
 	static float get_supply_status();
 
 	// Returns estimated seconds left until the power supply is exhausted
-	static int get_estimated_remaining_time();
+	static float get_estimated_remaining_time();
 
 private:
+
+	PowerSupply() = delete;
 
 	static constexpr float CONVERSION_FACTOR = 2.0 * 5.0 / 1024.0 * 1.029;
 	static constexpr float MIN_VOLTAGE = 7.6;
@@ -31,4 +31,4 @@ private:
 
 }  /* namespace infrastructure */
 
-#endif /* INFRASTRUCTURE_PERIPHERALS_POWERSUPPLY_H_ */
+#endif /* INFRASTRUCTURE_PERIPHERALS_POWERSUPPLY_H */

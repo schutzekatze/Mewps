@@ -1,21 +1,22 @@
 /*
  * InvalidMotorPowerError.h
  *
- *  Created on: Jan 29, 2017
- *      Author: schutzekatze
+ *  Copyright 2017 Vladimir Nikolić
  */
 
-#ifndef INFRASTRUCTURE_PERIPHERALS_INVALIDMOTORPOWERERROR_H_
-#define INFRASTRUCTURE_PERIPHERALS_INVALIDMOTORPOWERERROR_H_
+#ifndef INFRASTRUCTURE_PERIPHERALS_INVALIDMOTORPOWERERROR_H
+#define INFRASTRUCTURE_PERIPHERALS_INVALIDMOTORPOWERERROR_H
 
 #include <stdexcept>
 using std::runtime_error;
 
-namespace infrastructure
-{
+#include <tuple>
+using std::tuple;
+using std::make_tuple;
 
-class InvalidMotorPowerError: public runtime_error
-{
+namespace infrastructure {
+
+class InvalidMotorPowerError: public runtime_error {
 
 public:
 
@@ -23,10 +24,8 @@ public:
     	runtime_error("Motors were given invalid power values."),
 		power_left(power_left), power_right(power_right) {}
 
-    void get_powers(float *power_left, float *power_right) const
-    {
-    	*power_left = this->power_left;
-        *power_right = this->power_right;
+    tuple<float, float> get_powers() const {
+        return make_tuple(power_left, power_right);
     }
 
 private:
@@ -37,4 +36,4 @@ private:
 
 } /* namespace infrastructure */
 
-#endif /* INFRASTRUCTURE_PERIPHERALS_INVALIDMOTORPOWERERROR_H_ */
+#endif /* INFRASTRUCTURE_PERIPHERALS_INVALIDMOTORPOWERERROR_H */
