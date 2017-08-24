@@ -46,7 +46,7 @@ private:
 
     static constexpr int   FULL_SPEEDUP_TIME = 2000; // milliseconds
     static constexpr int   POWER_CHANGE_PERIOD = 100; // milliseconds
-    static constexpr float DEGREE_STEP = ((float)POWER_CHANGE_PERIOD) / FULL_SPEEDUP_TIME;
+    static constexpr float DEGREE_STEP = 0.05;//((float)POWER_CHANGE_PERIOD) / FULL_SPEEDUP_TIME;
     static constexpr float CONVERSION_FACTOR = 255.0; // Computer power to microcontroller power
 
     Motors() = delete;

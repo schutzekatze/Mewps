@@ -92,6 +92,7 @@ void Motors::power_regulator_routine() {
                 );
             }
 
+            const int sleeptime = POWER_CHANGE_PERIOD;
             if (done_left && done_right) {
                 unique_lock<mutex> lock(power_mutex);
 
@@ -100,12 +101,12 @@ void Motors::power_regulator_routine() {
                     done_left = done_right = false;
 
                     lock.unlock();
-                    sleep_for(milliseconds(POWER_CHANGE_PERIOD));
+                    sleep_for(milliseconds(sleeptime));
                 } else {
                     break;
                 }
             } else {
-                sleep_for(milliseconds(POWER_CHANGE_PERIOD));
+                sleep_for(milliseconds(sleeptime));
             }
         }
     }
