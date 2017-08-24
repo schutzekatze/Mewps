@@ -65,18 +65,22 @@ private:
     static thread power_regulator;
     static void power_regulator_routine();
 
+    static int sgn(float n) {
+        return n >= 0 ? 1 : -1;
+    }
+
     static float degree2power(float degree) {
-        if (degree < 0.05)
+        if ((degree < 0.05) && (degree > -0.05))
             return 0;
         else
-            return degree * degree * degree * 0.7 + 0.3;
+            return degree * degree * degree * 0.7 + sgn(degree) * 0.3;
     }
 
     static float power2degree(float power) {
-        if (power < 0.3)
+        if ((power < 0.3) && (power > -0.3))
             return 0;
         else
-            return cbrt((power - 0.3) / 0.7);
+            return cbrt((power - sgn(power) * 0.3) / 0.7);
     }
 
 };

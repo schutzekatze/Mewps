@@ -19,10 +19,6 @@ using infrastructure::microcontroller::Communicator;
 
 namespace infrastructure {
 
-int sgn(float n) {
-    return n >= 0 ? 1 : -1;
-}
-
 void Motors::set_powers(float power_left, float power_right) {
     if ((power_left < -1.0 || power_left > 1.0) ||
         (power_right < -1.0 || power_right > 1.0)) {
