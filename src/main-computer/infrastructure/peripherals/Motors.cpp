@@ -17,9 +17,6 @@ using infrastructure::microcontroller::Communicator;
 
 #include "InvalidMotorPowerError.h"
 
-#include <iostream>
-using std::cout;
-
 namespace infrastructure {
 
 int sgn(float n) {

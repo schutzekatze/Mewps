@@ -46,7 +46,7 @@ private:
 
     static constexpr int   FULL_SPEEDUP_TIME = 2000; // milliseconds
     static constexpr int   POWER_CHANGE_PERIOD = 100; // milliseconds
-    static constexpr float DEGREE_STEP = 0.05;//((float)POWER_CHANGE_PERIOD) / FULL_SPEEDUP_TIME;
+    static constexpr float DEGREE_STEP = ((float)POWER_CHANGE_PERIOD) / FULL_SPEEDUP_TIME;
     static constexpr float CONVERSION_FACTOR = 255.0; // Computer power to microcontroller power
 
     Motors() = delete;
@@ -66,11 +66,17 @@ private:
     static void power_regulator_routine();
 
     static float degree2power(float degree) {
-        return degree * degree * degree;
+        if (degree < 0.05)
+            return 0;
+        else
+            return degree * degree * degree * 0.7 + 0.3;
     }
 
     static float power2degree(float power) {
-        return cbrt(power);
+        if (power < 0.3)
+            return 0;
+        else
+            return cbrt((power - 0.3) / 0.7);
     }
 
 };
