@@ -7,6 +7,7 @@
 #include "Accelerometer.h"
 
 using std::make_tuple;
+using std::tie;
 
 #include "microcontroller/Communicator.h"
 using infrastructure::microcontroller::Communicator;
@@ -14,7 +15,8 @@ using infrastructure::microcontroller::Communicator;
 namespace infrastructure {
 
 tuple<float, float, float> Accelerometer::get_accelerations() {
-	auto [ax, ay, az] = Communicator::request_accelerometer_data();
+	int ax, ay, az;
+	tie(ax, ay, az) = Communicator::request_accelerometer_data();
 
 	return make_tuple(ax * CONVERSION_FACTOR, ay * CONVERSION_FACTOR, az * CONVERSION_FACTOR);
 }
