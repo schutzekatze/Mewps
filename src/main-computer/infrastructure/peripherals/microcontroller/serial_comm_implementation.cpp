@@ -107,7 +107,7 @@ uint16_t serial_comm_receive() {
     return ntohs(network_msg);
 }
 
-constexpr int baud2constant(const int baud)
+int baud2constant(const int baud)
 {
     switch (baud)
     {
