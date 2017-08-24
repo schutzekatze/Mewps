@@ -72,9 +72,7 @@ void TaskExecuter::execute_tasks() {
     unique_lock<mutex> lock(operation_mutex);
 
     for (;;) {
-        if (!running) {
-            running_condition.wait(lock);
-        }
+        while (!running) running_condition.wait(lock);
 
         if (!interrupted_tasks.empty() && !task_pool.empty()) {
             if (interrupted_tasks.top().priority >= task_pool.top().priority) {
@@ -126,9 +124,8 @@ void TaskExecuter::execute_tasks() {
             }
 
             lock.lock();
-        }
-        else {
-            executing_condition.wait(lock);
+        } else {
+            do { executing_condition.wait(lock); } while (!executing);
         }
     }
 }

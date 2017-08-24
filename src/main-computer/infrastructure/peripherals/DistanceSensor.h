@@ -9,6 +9,7 @@
 
 namespace infrastructure {
 
+// Threadsafe
 class DistanceSensor {
 
 public:
@@ -18,9 +19,9 @@ public:
 
 private:
 
-	DistanceSensor() = delete;
+	static constexpr float CONVERSION_FACTOR = 0.001;
 
-    static constexpr float CONVERSION_FACTOR = 0.001;
+	DistanceSensor() = delete;
 
 };
 

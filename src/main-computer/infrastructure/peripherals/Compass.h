@@ -9,6 +9,7 @@
 
 namespace infrastructure {
 
+// Threadsafe
 class Compass {
 
 public:
@@ -17,9 +18,9 @@ public:
 
 private:
 
-    Compass() = delete;
-
     static constexpr float CONVERSION_FACTOR = 0.1;
+
+    Compass() = delete;
 
 };
 

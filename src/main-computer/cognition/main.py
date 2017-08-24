@@ -1,2 +1,2 @@
 while True:
-	print("Cognition alive")
+	print('Cognition alive n kickin')

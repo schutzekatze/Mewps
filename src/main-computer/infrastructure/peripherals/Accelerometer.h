@@ -12,6 +12,7 @@ using std::tuple;
 
 namespace infrastructure {
 
+// Threadsafe
 class Accelerometer {
 
 public:
@@ -21,9 +22,9 @@ public:
 
 private:
 
-    Accelerometer() = delete;
-
     static constexpr float CONVERSION_FACTOR = 0.1;
+
+    Accelerometer() = delete;
 
 };
 

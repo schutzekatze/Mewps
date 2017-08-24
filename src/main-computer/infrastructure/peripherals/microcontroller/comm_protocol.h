@@ -28,13 +28,11 @@ inline void issue_motors_command(const int16_t power_left, const int16_t power_r
     serial_comm_send(MOTORS_COMMAND);
     serial_comm_send(power_left);
     serial_comm_send(power_right);
-    serial_comm_receive();
 }
 
 inline void receive_motors_command(int16_t* power_left, int16_t* power_right) {
     *power_left = serial_comm_receive();
     *power_right = serial_comm_receive();
-    serial_comm_send(0);
 }
 
 inline void request_distance(int16_t* distance) {

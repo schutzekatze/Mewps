@@ -107,7 +107,7 @@ uint16_t serial_comm_receive() {
     return ntohs(network_msg);
 }
 
-int baud2constant(const int baud)
+constexpr int baud2constant(const int baud)
 {
     switch (baud)
     {
@@ -116,8 +116,8 @@ int baud2constant(const int baud)
         case 19200: return B19200;
         case 38400: return B38400;
         case 57600: return B57600;
+        default: return -1;
     }
-    return -1;
 }
 
 struct Init {

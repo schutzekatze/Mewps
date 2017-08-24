@@ -9,6 +9,7 @@
 
 namespace infrastructure {
 
+// Threadsafe
 class PowerSupply {
 
 public:
@@ -21,11 +22,11 @@ public:
 
 private:
 
-	PowerSupply() = delete;
-
 	static constexpr float CONVERSION_FACTOR = 2.0 * 5.0 / 1024.0 * 1.029;
 	static constexpr float MIN_VOLTAGE = 7.6;
 	static constexpr float MAX_VOLTAGE = 9.6;
+
+	PowerSupply() = delete;
 
 };
 
